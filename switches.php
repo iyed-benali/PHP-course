@@ -3,7 +3,7 @@
 $grade="A";
 switch($grade){
     case("A"):
-        echo "  did great";
+        echo "  did greatt";
         break;
         case("B"):
             echo "noice";
