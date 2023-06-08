@@ -27,7 +27,7 @@ echo $capital
 
 // echo $capitals["USA"]
 
-// $capitals["USA"]="las vegas";
+// $capitals["USA"]="las vegaas";
 // $capitals["china"]="bejin";
 // array_pop($capitals);
 // array_shift($capitals);
